@@ -1,1 +1,0 @@
-exec(open('./web.py').read())
